@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Biruk Desalegn
 
-<!--
-**birukd1/birukd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Data+Analyst;Data+Science+Student;Machine+Learning+Enthusiast;Future+ML+Engineer)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+💻 Data Analyst & Scientist  
+📊 Passionate about data-driven decision making  
+🤖 Interested in AI, Machine Learning & Automation  
+🌍 Based in Addis Ababa, Ethiopia  
+
+---
+
+## 🧠 Skills
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-orange?logo=mysql)
+![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
+![Machine Learning](https://img.shields.io/badge/MachineLearning-green)
+![Data Analysis](https://img.shields.io/badge/DataAnalysis-blue)
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=birukd1&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=birukd1&theme=radical)
+
+---
+
+## 📂 Featured Projects
+- 📊 Titanic Survival Analysis  
+- 🎓 Student Performance Analysis  
+- 💰 ML Price Predictor  
+- 🎬 Movie Recommendation System  
+- 🧠 Image Classification (CNN)  
+
+---
+
+## 📫 Contact Me
+- 📧 birukdes914@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/biruk-desalegn-a5601b364  
+
