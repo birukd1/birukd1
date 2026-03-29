@@ -1,5 +1,4 @@
 
----
 # 👋 Hi, I'm Biruk Desalegn
 
 <!-- Typing Animation -->
@@ -8,7 +7,7 @@
 <!-- Banner GIF -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">  
 
----
+
 
 ## 🚀 About Me
 💻 Data Analyst  
@@ -50,9 +49,6 @@
 - 💰 ML Price Predictor  
 
 ---
-
-## 🐍 Contribution Snake Animation
-![Snake animation](https://github.com/birukd1/birukd1/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
