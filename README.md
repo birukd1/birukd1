@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Biruk Desalegn
 
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Data+Analyst;Machine+Learning+Engineer;AI+%26+Automation+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Data+scientist;Machine+Learning+Engineer;AI+%26+Automation+Enthusiast)
 
 <!-- Banner GIF -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">  
@@ -10,7 +10,7 @@
 
 
 ## 🚀 About Me
-💻 Data Analyst  
+💻 Data scientist  
 🤖 Passionate about AI & Machine Learning  
 📊 Turning data into insights  
 🌍 Based in Ethiopia  
